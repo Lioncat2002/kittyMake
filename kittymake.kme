@@ -1,0 +1,5 @@
+mkdir pussycat
+cd test
+
+python hello.py
+
